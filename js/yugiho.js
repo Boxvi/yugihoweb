@@ -13,7 +13,7 @@ const listYugiho = async () => {
         cards += `
         
         <li>
-            <a href="" class="card" id="${index}">
+            <a class="card" id="${index}">
                 <img src="https://images.ygoprodeck.com/images/cards_cropped/${card.id}.jpg" class="card__image" alt="" />
                 <div class="card__overlay">
                     <div class="card__header">
